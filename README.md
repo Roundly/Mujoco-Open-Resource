@@ -6,6 +6,7 @@
 
 - Mujoco  [[website](https://mujoco.org/)] [[github](https://github.com/google-deepmind/mujoco)]
 - MuJoCo XLA (MJX)  [[document](https://mujoco.readthedocs.io/en/stable/mjx.html)] [[github](https://github.com/google-deepmind/mujoco/tree/main/mjx)]
+- MuJoCo Playground [[website](https://playground.mujoco.org/)] [[github](https://github.com/google-deepmind/mujoco_playground)] [[Technical Report](https://playground.mujoco.org/assets/playground_technical_report.pdf)]
 
 > For Mujoco, There are some open python library like Stable-Baselines3[[document](https://stable-baselines3.readthedocs.io/en/master/)] or Gymnasium[[document](https://gymnasium.org.cn/)], If you are not familiar with RL, You can search for them!
 
