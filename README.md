@@ -1,8 +1,6 @@
 # Open Resource via Mujoco & Related Engines
 
-​	
-
-This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
+​	This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
 
 ## 1. Official Documentation & Tutorials
 
