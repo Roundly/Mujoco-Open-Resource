@@ -7,7 +7,7 @@
 - Mujoco  [[website](https://mujoco.org/)] [[github](https://github.com/google-deepmind/mujoco)]
 - MuJoCo XLA (MJX)  [[document](https://mujoco.readthedocs.io/en/stable/mjx.html)] [[github](https://github.com/google-deepmind/mujoco/tree/main/mjx)]
 
-> For Mujoco, There are some open python library like Stable-Baselines3 or Gymnasium, If you are not familiar with RL, You can search for them!
+> For Mujoco, There are some open python library like Stable-Baselines3[[document](https://stable-baselines3.readthedocs.io/en/master/)] or Gymnasium[[document](https://gymnasium.org.cn/)], If you are not familiar with RL, You can search for them!
 
 - Genesis [[website](https://genesis-embodied-ai.github.io/)] [[github](https://github.com/Genesis-Embodied-AI/Genesis)]
 
@@ -32,10 +32,11 @@ A highly recommended tutorial with video guides for mastering the basics of MuJo
 | Classification / Engine | Repository name/Article | Type |     Base     |                             URL                              | Note(Optional) |
 | :---------------------: | :---------------------: | :--: | :----------: | :----------------------------------------------------------: | -------------- |
 |     Genesis/Mujoco      |  wheel_legged_genesis   |  RL  | Wheel-legged | [[github](https://github.com/Albusgive/wheel_legged_genesis)] |                |
-|         Mujoco          |      MuJoCo_RL_UR5      |  RL  | Manipulator  |  [[github](https://github.com/PaulDanielML/MuJoCo_RL_UR5)]   |                |
+|         Mujoco          |      MuJoCo_RL_UR5      |  RL  | Manipulator  |  [[github](https://github.com/PaulDanielML/MuJoCo_RL_UR5)]   |          UR5       |
+|         Mujoco          |      MuJoCo-Dual-Arm    |  RL  | Manipulator  |  [[github](https://github.com/Autrio/MuJoCo-Dual-Arm)]       |   Franka Panda    |
 |                         |                         |      |              |                                                              |                |
 |                         |                         |      |              |                                                              |                |
-|                         |                         |      |              |                                                              |                |
+
 
 ## 3. Computational Physics
 
