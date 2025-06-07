@@ -1,6 +1,14 @@
 # Open Resource via Mujoco & Related Engines
 
-​	This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
+​This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
+    
+I hope this warehouse can become more complete. If you have relevant content collection in different fields, feel free to  **feel free to [*open issues*](https://github.com/Roundly/Mujoco-Open-Resource/issues/new) or [*pull requests*](https://github.com/Roundly/Mujoco-Open-Resource/compare). Contributions in any form to make this list more comprehensive are welcome.
+
+If you find this warehouse very helpful, please *star!🌟*
+
+> Generally speaking, there are many open-source projects related to Isaac Gym. I created this repository with the hope of finding sufficiently unique or complete project resources in the subfield of MuJoCo and related engines. Therefore, please make sure to filter and add only the relevant ones! Of course, we also welcome the use of sim2sim technology to achieve the transition from Isaac Gym to MuJoCo, but please specify the exact folder and the category of the technical implementation!
+<br>请提供与Mujoco高度相关的开源项目，包括从issac gym通过sim2sim实现的mujoco也是可以的！
+
 
 ## 1. Official Documentation & Tutorials
 
@@ -8,7 +16,7 @@
 - MuJoCo XLA (MJX)  [[document](https://mujoco.readthedocs.io/en/stable/mjx.html)] [[github](https://github.com/google-deepmind/mujoco/tree/main/mjx)]
 - MuJoCo Playground [[website](https://playground.mujoco.org/)] [[github](https://github.com/google-deepmind/mujoco_playground)] [[Technical Report](https://playground.mujoco.org/assets/playground_technical_report.pdf)]
 
-> For Mujoco, There are some open python library like Stable-Baselines3[[document](https://stable-baselines3.readthedocs.io/en/master/)] or Gymnasium[[document](https://gymnasium.org.cn/)], If you are not familiar with RL, You can search for them!
+> For RL or mujoco, There are some open python library like Stable-Baselines3[[document](https://stable-baselines3.readthedocs.io/en/master/)] or Gymnasium[[document](https://gymnasium.org.cn/)], If you are not familiar with RL, You can search for them!
 
 - Genesis [[website](https://genesis-embodied-ai.github.io/)] [[github](https://github.com/Genesis-Embodied-AI/Genesis)]
 
@@ -65,8 +73,6 @@ A highly recommended tutorial with video guides for mastering the basics of MuJo
 | Nature 2025 | Whole-body physics simulation of fruit fly locomotion | locomotion | Fruit fly | [[Paper](https://www.nature.com/articles/s41586-025-09029-4.pdf)] [[github](https://github.com/TuragaLab/flybody?tab=readme-ov-file)] | nature果蝇恐怖如斯 |
 |             |                                                       |            |           |                                                              |                    |
 |             |                                                       |            |           |                                                              |                    |
-
-## PR！Create Issues！
 
 
 
