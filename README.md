@@ -1,4 +1,4 @@
-# Open Resource via Mujoco & Related Engines
+# Open Resource via Mujoco & Related Engines  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
 ​This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
     
@@ -76,6 +76,8 @@ A highly recommended tutorial with video guides for mastering the basics of MuJo
 
 
 
+
 ## LICENSE
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+    Open Resource via Mujoco & Related Engines ©2025 by Sheng Yanggang is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
