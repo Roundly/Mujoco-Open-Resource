@@ -1,6 +1,6 @@
 # Open Resource via Mujoco & Related Engines  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
-​This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
+This repository collects a series of projects built upon MuJoCo and similar engines, such as Mjx, Genesis, and the upcoming Newton. The scope includes, but is not limited to, physics simulation, modeling, control, and training. Currently, the projects are broadly categorized into three domains: Robotics (my personal area of focus), Physics Simulation & Computation, and Biomedical Applications. As my own exposure to many of these projects is limited and this repository was created out of personal interest, pull requests are highly welcome to help us improve this collection together. A dedicated webpage will be launched in the future based on the completeness and volume of the content.
     
 I hope this warehouse can become more complete. If you have relevant content collection in different fields, feel free to  **feel free to [*open issues*](https://github.com/Roundly/Mujoco-Open-Resource/issues/new) or [*pull requests*](https://github.com/Roundly/Mujoco-Open-Resource/compare)**. Contributions in any form to make this list more comprehensive are welcome.
 
@@ -43,7 +43,7 @@ A highly recommended tutorial with video guides for mastering the basics of MuJo
 |     Genesis/Mujoco      |  wheel_legged_genesis   |  RL  | Wheel-legged | [[github](https://github.com/Albusgive/wheel_legged_genesis)] |                |
 |         Mujoco          |      MuJoCo_RL_UR5      |  RL  | Manipulator  |  [[github](https://github.com/PaulDanielML/MuJoCo_RL_UR5)]   |          UR5       |
 |         Mujoco          |      MuJoCo-Dual-Arm    |  RL  | Manipulator  |  [[github](https://github.com/Autrio/MuJoCo-Dual-Arm)]       |   Franka Panda    |
-|                         |                         |      |              |                                                              |                |
+| Mujoco | pointfoot-mujoco-sim | RL | Wheel-legged/Point foot | [[github](https://github.com/limxdynamics/pointfoot-mujoco-sim)] | 逐际动力开源 |
 |                         |                         |      |              |                                                              |                |
 
 
