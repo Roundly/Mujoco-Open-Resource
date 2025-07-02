@@ -49,22 +49,25 @@ A highly recommended tutorial with video guides for mastering the basics of MuJo
 
 ## 3. Computational Physics
 
-| Initialism | Artical Name | Type | Base | URL  | Note(Optional) |             |
-| :--------: | :-----: | :--: | :--: | :--: | -------------- |
-|            |         |      |      |      |                |
-|            |         |      |      |      |                |
-|            |         |      |      |      |                |
+| Classification / Engine | Repository name/Article | Type | Base | URL  | Note(Optional) |
+| :---------------------: | :---------------------: | :--: | :--: | :--: | -------------- |
+|                         |                         |      |      |      |                |
+|                         |                         |      |      |      |                |
+|                         |                         |      |      |      |                |
+|                         |                         |      |      |      |                |
+|                         |                         |      |      |      |                |
 
-## 4.Biotechnology & Life Sciences
+## 
 
 ### 4.1 Biotechnology
 
-| Initialism | Artical | Type | Base | URL  | Note(Optional) |
-|   L4DC2022         |   MyoSuite      |  Collection    | Musculoskeletal Environments     | [[github](https://github.com/MyoHub/myosuite)] [[paper](https://arxiv.org/abs/2205.13600)]  [[document](https://myosuite.readthedocs.io/)]  |  
-| :--------: | :-----: | :--: | :--: | :--: | -------------- | 
-|            |         |      |      |      |                |
-|            |         |      |      |      |                |
-|            |         |      |      |      |                |
+| Initialism | Artical  |    Type    |             Base             |                             URL                              | Note(Optional) |
+| :--------: | :------: | :--------: | :--------------------------: | :----------------------------------------------------------: | -------------- |
+|  L4DC2022  | MyoSuite | Collection | Musculoskeletal Environments | [[github](https://github.com/MyoHub/myosuite)] [[paper](https://arxiv.org/abs/2205.13600)]  [[document](https://myosuite.readthedocs.io/)] |                |
+|            |          |            |                              |                                                              |                |
+|            |          |            |                              |                                                              |                |
+|            |          |            |                              |                                                              |                |
+|            |          |            |                              |                                                              |                |
 
 ### 4.2 Life Sciences
 
